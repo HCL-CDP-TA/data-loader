@@ -1,2 +1,0 @@
-# Keep this directory in git but ignore migration files
-# Migration files are generated and should not be committed in most cases
